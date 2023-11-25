@@ -7,16 +7,6 @@ Eu ❤️ enfrentar desafios empolgantes enquanto aprendo a desenvolver sites co
 
 Desde a criação do frontend usando essas tecnologias até a exploração do mundo do desenvolvimento web, estou dedicado a descobrir e aplicar novos conhecimentos para criar soluções sólidas. Atualmente, estou me desenvolvendo como um programador júnior, focado em expandir minhas habilidades e contribuir para projetos web.</p>&nbsp;
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=rodrigochocolate&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rodrigochocolate.vercel.app/api/top-langs/?username=rodrigochocolate&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
