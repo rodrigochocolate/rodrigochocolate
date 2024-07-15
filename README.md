@@ -3,9 +3,10 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-Eu ❤️ enfrentar desafios empolgantes enquanto aprendo a desenvolver sites com JavaScript, HTML e CSS.
+👋 Olá, sou um entusiasta da programação Python! 🐍
 
-Desde a criação do frontend usando essas tecnologias até a exploração do mundo do desenvolvimento web, estou dedicado a descobrir e aplicar novos conhecimentos para criar soluções sólidas. Atualmente, estou me desenvolvendo como um programador júnior, focado em expandir minhas habilidades e contribuir para projetos web.</p>&nbsp;
+Sempre fui apaixonado por resolver problemas e criar soluções elegantes com código. Meu amor pela linguagem Python cresce a cada dia, e estou sempre explorando novos horizontes. Estou em constante evolução! Aprendo com cada projeto, cada desafio e cada linha de código. Afinal, a programação é uma jornada de aprendizado contínuo. Busco novos projetos para me desafiar e expandir meus conhecimentos. Se você tem alguma ideia interessante, estou pronto para mergulhar de cabeça!
+</p>&nbsp;
 
 ## My Skills
 
