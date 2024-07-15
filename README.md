@@ -3,7 +3,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <p align="center">
-👋 Olá, sou um entusiasta da programação Python! 🐍
+👋 Olá, sou um programador Python! 🐍
 
 Sempre fui apaixonado por resolver problemas e criar soluções elegantes com código. Meu amor pela linguagem Python cresce a cada dia, e estou sempre explorando novos horizontes. Estou em constante evolução! Aprendo com cada projeto, cada desafio e cada linha de código. Afinal, a programação é uma jornada de aprendizado contínuo. Busco novos projetos para me desafiar e expandir meus conhecimentos. Se você tem alguma ideia interessante, estou pronto para mergulhar de cabeça!
 </p>&nbsp;
